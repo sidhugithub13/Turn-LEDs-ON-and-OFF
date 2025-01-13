@@ -18,7 +18,14 @@ Gnd - ve leg of LED
 
 ![image](https://github.com/user-attachments/assets/b9916813-4c32-4d0b-9727-7f2c99bf0686)
 
+
+![image](https://github.com/user-attachments/assets/2b827579-2462-4d83-ae0c-455f3e18efc3)
+
+
 **Ouput:**
 
 ![image](https://github.com/user-attachments/assets/ffd8606b-3304-41cd-93f0-7685a34b0503)
+
+
+
 
